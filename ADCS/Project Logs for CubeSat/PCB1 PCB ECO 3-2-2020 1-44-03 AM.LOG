@@ -1,0 +1,81 @@
+Added Component: Designator=AC?(MMA8452QT)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://cache.nxp.com/files/shared/doc/package_info/98ASA00318D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FXOS8700CQR1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "841-FXOS8700CQR1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=841-FXOS8700CQR1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X55X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X55X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X55X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X55X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X55X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X55X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X55X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X55X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X55X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X55X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X55X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1005X55X30ML05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(FXAS21002CQR1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/ds/2/302/FXAS21002-783424.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FXAS21002CQR1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "841-FXAS21002CQR1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=841-FXAS21002CQR1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC?(QFP50P1600X1600X160-100N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/389/stm32l4s5ai-1309291.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32L4S5VIT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32L4S5VIT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-STM32L4S5VIT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1750803P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1750803P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=AC?-12
+Added Pin To Net: NetName=GND Pin=AC?-13
+Added Pin To Net: NetName=GND Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-5
+Added Pin To Net: NetName=GND Pin=IC?-6
+Added Pin To Net: NetName=GND Pin=IC?-7
+Added Pin To Net: NetName=GND Pin=IC?-8
+Added Pin To Net: NetName=GND Pin=IC?-9
+Added Pin To Net: NetName=GND Pin=IC?-10
+Added Pin To Net: NetName=GND Pin=IC?-14
+Added Pin To Net: NetName=GND Pin=IC?-19
+Added Pin To Net: NetName=GND Pin=IC?-20
+Added Pin To Net: NetName=GND Pin=IC?-21
+Added Pin To Net: NetName=GND Pin=IC?-22
+Added Pin To Net: NetName=GND Pin=IC?-23
+Added Pin To Net: NetName=GND Pin=IC?-24
+Added Net: Name=GND
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
